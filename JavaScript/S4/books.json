@@ -1,0 +1,21 @@
+{
+    "Movies" : [
+        {
+            "MovieName" : "Atlantis"
+        },
+        {
+            "MovieName" : "Bolt"
+        },
+        {
+            "MovieName" : "GetFunky"
+        },
+        {
+            "MovieName" : "KungFuPanda"
+        },
+        {
+            "MovieName" : "Titanic"
+        }
+    ],
+    "ListVisible" : true
+    
+}
