@@ -142,3 +142,28 @@ function addBook(e) {
 }
 
 form.addEventListener("submit", addBook);
+
+// kold festival class eksempel
+class artist {
+  name;
+  playTime;
+  location;
+  description;
+  imageUrl;
+  constructor(name, playtime, location, description, imageUrl) {
+    this.name = name;
+    this.playTime = playtime;
+    this.location = location;
+    this. description = description;
+    this.imageUrl = imageUrl;
+  }
+}
+let funArtist = new artist(
+    'Anna',
+    'Friday',
+    'Kolding',
+    'This is so much fun',
+    'https://images.unsplash.com/photo-1602233158242-3ba0ac4d2167?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80'
+);
+
+
