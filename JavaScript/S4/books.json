@@ -1,19 +1,16 @@
 {
-    "Movies" : [
+    "books" : [
         {
-            "MovieName" : "Atlantis"
+            "bookName" : "Lis"
         },
         {
-            "MovieName" : "Bolt"
+            "bookName" : "JSON"
         },
         {
-            "MovieName" : "GetFunky"
+            "bookName" : "HTML"
         },
         {
-            "MovieName" : "KungFuPanda"
-        },
-        {
-            "MovieName" : "Titanic"
+            "bookName" : "CSS"
         }
     ],
     "ListVisible" : true
